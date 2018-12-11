@@ -1,19 +1,19 @@
 
 ### 4.Heroku 帐号与 Github 帐号关联
-![3](./imgs/3.jpg)
+
 进入 Deploy 页面 ==> 选择 Deployment Method 为 Github ==> Connect to GitHub
 
 ---
 
 ### 5.选择要关联的Github项目
-![4](./imgs/4.jpg)
+
 选择GitHub帐号  ==> 查找shadowsocks-over-websocket ==> Connect
 
 ---
 
 ### 6.部署 master 分支
 
-![5](./imgs/5.jpg)
+
 
 ---
 
